@@ -9,6 +9,8 @@
  - **Teaching Assistants**: 
     - Cristiano Köhler, Forchungszentrum Jülich, Germany
     - Tobias Michels, Forchungszentrum Jülich, Germany
+    - Julio Rodino, Forchungszentrum Jülich, Germany
+    - Clemens Engelhardt, University Cologne, Germany
     - Michael Denker, Forchungszentrum Jülich, Germany
 
 
